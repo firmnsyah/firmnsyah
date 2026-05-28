@@ -1,6 +1,6 @@
 <!-- ====================== HEADER BANNER ====================== -->
 <a href="https://github.com/firmnsyah">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=220&section=header&text=Hi%20There!%20I'm%20Firmansyah&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20GitHub%20Profile%20✨&descAlignY=58&descSize=18" alt="header"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=220&section=header&text=Hello%20World!%20I'm%20Firmansyah&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20GitHub%20Profile%20✨&descAlignY=58&descSize=18" alt="header"/>
 </a>
 
 <!-- ====================== TYPING ANIMATION ====================== -->
