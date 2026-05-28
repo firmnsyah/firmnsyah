@@ -6,7 +6,7 @@
 <!-- ====================== TYPING ANIMATION ====================== -->
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=8E2DE2&center=true&vCenter=true&width=600&lines=Software+Developer+%F0%9F%92%BB;Web+Enthusiast+%F0%9F%8C%90;Always+Learning+New+Things+%F0%9F%9A%80;Open+Source+Lover+%E2%9D%A4%EF%B8%8F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=8E2DE2&center=true&vCenter=true&width=600&lines=Data+Engineer+%F0%9F%92%BB;Data+Analyst+%F0%9F%8C%90;AI+Enthusiast+%F0%9F%9A%80;Always+Learning+New+Things+%E2%9D%A4%EF%B8%8F)](https://git.io/typing-svg)
 
 </div>
 
@@ -16,7 +16,7 @@
   <a href="https://github.com/firmnsyah?tab=followers">
     <img src="https://img.shields.io/github/followers/firmnsyah?label=Followers&style=for-the-badge&color=4A00E0" alt="followers" />
   </a>
-  <img src="https://img.shields.io/badge/Focus-Web%20Development-blueviolet?style=for-the-badge" alt="focus" />
+  <img src="https://img.shields.io/badge/Focus-Data%20&%20AI%20Engineer-blueviolet?style=for-the-badge" alt="focus" />
 </div>
 
 <br/>
@@ -29,12 +29,12 @@
 ```typescript
 const firmansyah = {
     pronouns:    "He" | "Him",
-    location:    "Indonesia 🇮🇩",
-    role:        "Software Developer",
-    code:        ["JavaScript", "TypeScript", "PHP", "Python"],
-    askMeAbout:  ["web dev", "tech", "open source"],
-    currentlyLearning: "Cloud & DevOps ☁️",
-    funFact:     "There are two ways to write bug-free code; only the third one works 😎"
+    location:    "Makassar, ID",
+    role:        "Data Engineer",
+    code:        ["Python", "SQL", "Pandas", "Numpy", "dbt"],
+    askMeAbout:  ["data", "tech", "artificial intelligence"],
+    currentlyLearning: "Data Engineer & Cloud Storage ☁️",
+    funFact:     "In God we trust, all others must bring data 📊"
 };
 ```
 
@@ -42,7 +42,7 @@ const firmansyah = {
 - 🌱 &nbsp;I’m currently learning **new frameworks & best practices**
 - 👯 &nbsp;I’m looking to collaborate on **open source projects**
 - 💬 &nbsp;Ask me about **anything tech-related**
-- ⚡ &nbsp;Fun fact: **I love turning coffee into code ☕➡️💻**
+- ⚡ &nbsp;Fun fact: **I turn raw data into meaningful insights 📊➡️💡**
 
 <br clear="right"/>
 
@@ -76,8 +76,7 @@ const firmansyah = {
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=firmnsyah&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=8E2DE2&icon_color=4A00E0" alt="stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=firmnsyah&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=8E2DE2" alt="top langs" />
+  <img width="100%" src="./github-metrics.svg" alt="github metrics" />
 </div>
 
 <div align="center">
@@ -85,10 +84,10 @@ const firmansyah = {
 </div>
 
 <!-- ====================== TROPHIES ====================== -->
-## 🏆 GitHub Trophies
+## 🏆 Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=firmnsyah&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" alt="trophies" />
+  <img width="100%" src="./github-achievements.svg" alt="achievements" />
 </div>
 
 <!-- ====================== ACTIVITY GRAPH ====================== -->
