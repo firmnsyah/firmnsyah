@@ -1,22 +1,22 @@
 <!-- ====================== HEADER BANNER ====================== -->
 <a href="https://github.com/firmnsyah">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=220&section=header&text=Hello%20World!%20I'm%20Firmansyah&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20GitHub%20Profile%20✨&descAlignY=58&descSize=18" alt="header"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5A0,100:00D9F5&height=220&section=header&text=Hello%20World!%20I'm%20Firmansyah&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20GitHub%20Profile%20✨&descAlignY=58&descSize=18" alt="header"/>
 </a>
 
 <!-- ====================== TYPING ANIMATION ====================== -->
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=8E2DE2&center=true&vCenter=true&width=600&lines=Data+Engineer+%F0%9F%92%BB;Data+Analyst+%F0%9F%8C%90;AI+Enthusiast+%F0%9F%9A%80;Always+Learning+New+Things+%E2%9D%A4%EF%B8%8F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F5A0&center=true&vCenter=true&width=600&lines=Data+Engineer+%F0%9F%92%BB;Data+Analyst+%F0%9F%8C%90;AI+Enthusiast+%F0%9F%9A%80;Always+Learning+New+Things+%E2%9D%A4%EF%B8%8F)](https://git.io/typing-svg)
 
 </div>
 
 <!-- ====================== VISITOR + FOLLOW BADGES ====================== -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=firmnsyah&label=Profile%20Views&color=8E2DE2&style=for-the-badge" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=firmnsyah&label=Profile%20Views&color=00F5A0&style=for-the-badge" alt="profile views" />
   <a href="https://github.com/firmnsyah?tab=followers">
-    <img src="https://img.shields.io/github/followers/firmnsyah?label=Followers&style=for-the-badge&color=4A00E0" alt="followers" />
+    <img src="https://img.shields.io/github/followers/firmnsyah?label=Followers&style=for-the-badge&color=00D9F5" alt="followers" />
   </a>
-  <img src="https://img.shields.io/badge/Focus-Data%20&%20AI%20Engineer-blueviolet?style=for-the-badge" alt="focus" />
+  <img src="https://img.shields.io/badge/Focus-Data%20&%20AI%20Engineer-00C9A7?style=for-the-badge" alt="focus" />
 </div>
 
 <br/>
@@ -120,7 +120,7 @@ const firmansyah = {
 <!-- ======================== STATS ======================= -->
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=firmnsyah&theme=radical&hide_border=true&background=0D1117&ring=8E2DE2&fire=4A00E0&currStreakLabel=8E2DE2" alt="streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=firmnsyah&theme=radical&hide_border=true&background=0D1117&ring=00F5A0&fire=00D9F5&currStreakLabel=00F5A0" alt="streak" />
 </div>
 
 <!-- ====================== ACTIVITY GRAPH ====================== -->
@@ -128,7 +128,7 @@ const firmansyah = {
 ## 📈 Contribution Activity
 
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=firmnsyah&theme=react-dark&bg_color=0D1117&color=8E2DE2&line=4A00E0&point=ffffff&hide_border=true&area=true" alt="activity graph" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=firmnsyah&theme=react-dark&bg_color=0D1117&color=00F5A0&line=00D9F5&point=ffffff&hide_border=true&area=true" alt="activity graph" />
 </div>
 
 <!-- ====================== CONNECT ====================== -->
@@ -141,9 +141,9 @@ const firmansyah = {
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:frmnsyh.kdr@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/firmnsyaahh)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/frmnsyaahh)
-[![Portfolio](https://img.shields.io/badge/Portfolio-8E2DE2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://firmansyah-resume.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00F5A0?style=for-the-badge&logo=google-chrome&logoColor=white)](https://firmansyah-resume.vercel.app)
 
 </div>
 
 <!-- ====================== FOOTER ====================== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4A00E0,100:8E2DE2&height=120&section=footer&text=Thanks%20for%20visiting!%20⭐&fontSize=20&fontColor=ffffff&animation=fadeIn" alt="footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9F5,100:00F5A0&height=120&section=footer&text=Thanks%20for%20visiting!%20⭐&fontSize=20&fontColor=ffffff&animation=fadeIn" alt="footer"/>
