@@ -24,6 +24,8 @@
 <!-- ====================== ABOUT ME ====================== -->
 <img align="right" alt="coding" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
 
+### 🧑‍💻 About Me
+
 ```typescript
 const firmansyah = {
   pronouns: "He" | "Him",
@@ -53,11 +55,15 @@ const firmansyah = {
 
 <!-- ====================== SNAKE ANIMATION ====================== -->
 
+##
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/firmnsyah/firmnsyah/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </div>
 
 <!-- ====================== TECH STACK ====================== -->
+
+##
 
 <div align="center">
 
@@ -103,11 +109,15 @@ const firmansyah = {
 
 <!-- ====================== ACTIVITY GRAPH ====================== -->
 
+##
+
 <div align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=firmnsyah&theme=react-dark&bg_color=0D1117&color=8E2DE2&line=4A00E0&point=ffffff&hide_border=true&area=true" alt="activity graph" />
 </div>
 
 <!-- ====================== CONNECT ====================== -->
+
+
 
 <div align="center">
 
