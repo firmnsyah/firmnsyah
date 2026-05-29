@@ -24,11 +24,30 @@
 <!-- ====================== ABOUT ME ====================== -->
 ## 🧑‍💻 About Me
 
-<img align="right" alt="coding" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
+<table>
+<tr>
+<td width="58%" valign="top">
 
 > _Turning **raw, messy data** into **reliable pipelines** and **AI-driven insights**._ 🚀
 
 👋 &nbsp;Hi! I'm a **Data Engineer** & **AI enthusiast** based in **Makassar, Indonesia** 🇮🇩 who loves designing data systems that **scale** and models that **actually ship**.
+
+<br/>
+
+- 🔭 &nbsp;Building **scalable data pipelines** & **ML-powered systems**
+- 🌱 &nbsp;Diving deep into **MLOps** & **cloud data warehouses**
+- 🤝 &nbsp;Open to collaborate on **data / AI open-source** projects
+- 💬 &nbsp;Ask me anything about **data engineering** & **AI**
+- ⚡ &nbsp;Fun fact: I turn **raw data** into **insights** 📊➡️💡
+
+</td>
+<td width="42%" valign="middle" align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="100%" alt="coding animation" />
+
+</td>
+</tr>
+</table>
 
 ```typescript
 const firmansyah: Engineer = {
@@ -41,28 +60,6 @@ const firmansyah: Engineer = {
   funFact:           "In God we trust, all others must bring data 📊",
 };
 ```
-
-#### 🚀 What I'm Up To
-
-<table>
-  <tr>
-    <td>🔭</td><td>Building <b>scalable data pipelines</b> & <b>ML-powered systems</b></td>
-  </tr>
-  <tr>
-    <td>🌱</td><td>Diving deep into <b>MLOps</b> & <b>cloud data warehouses</b></td>
-  </tr>
-  <tr>
-    <td>🤝</td><td>Open to collaborate on <b>data / AI open-source</b> projects</td>
-  </tr>
-  <tr>
-    <td>💬</td><td>Ask me anything about <b>data engineering</b> & <b>AI</b></td>
-  </tr>
-  <tr>
-    <td>⚡</td><td>Fun fact: I turn <b>raw data</b> into <b>meaningful insights</b> 📊➡️💡</td>
-  </tr>
-</table>
-
-<br clear="right"/>
 
 <!-- ======================== STATS ======================= -->
 
