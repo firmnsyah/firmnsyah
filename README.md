@@ -22,27 +22,45 @@
 <br/>
 
 <!-- ====================== ABOUT ME ====================== -->
-<img align="right" alt="coding" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
+## 🧑‍💻 About Me
 
-### 🧑‍💻 About Me
+<img align="right" alt="coding" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
+
+> _Turning **raw, messy data** into **reliable pipelines** and **AI-driven insights**._ 🚀
+
+👋 &nbsp;Hi! I'm a **Data Engineer** & **AI enthusiast** based in **Makassar, Indonesia** 🇮🇩 who loves designing data systems that **scale** and models that **actually ship**.
 
 ```typescript
-const firmansyah = {
-  pronouns: "He" | "Him",
-  location: "Makassar, ID",
-  role: "Data Engineer",
-  code: ["Python", "SQL", "Pandas", "Numpy", "dbt"],
-  askMeAbout: ["data", "tech", "artificial intelligence"],
-  currentlyLearning: "Data Engineer & Cloud Storage ☁️",
-  funFact: "In God we trust, all others must bring data 📊",
+const firmansyah: Engineer = {
+  pronouns:          "He" | "Him",
+  location:          "Makassar, ID 🇮🇩",
+  role:              "Data Engineer / AI Engineer",
+  dailyDriver:       ["Python", "SQL", "Spark", "Airflow", "dbt"],
+  askMeAbout:        ["data pipelines", "ETL/ELT", "ML & AI"],
+  currentlyLearning: "Cloud Data Platforms & MLOps ☁️",
+  funFact:           "In God we trust, all others must bring data 📊",
 };
 ```
 
-- 🔭 &nbsp;I’m currently working on **cool web projects**
-- 🌱 &nbsp;I’m currently learning **new frameworks & best practices**
-- 👯 &nbsp;I’m looking to collaborate on **open source projects**
-- 💬 &nbsp;Ask me about **anything tech-related**
-- ⚡ &nbsp;Fun fact: **I turn raw data into meaningful insights 📊➡️💡**
+#### 🚀 What I'm Up To
+
+<table>
+  <tr>
+    <td>🔭</td><td>Building <b>scalable data pipelines</b> & <b>ML-powered systems</b></td>
+  </tr>
+  <tr>
+    <td>🌱</td><td>Diving deep into <b>MLOps</b> & <b>cloud data warehouses</b></td>
+  </tr>
+  <tr>
+    <td>🤝</td><td>Open to collaborate on <b>data / AI open-source</b> projects</td>
+  </tr>
+  <tr>
+    <td>💬</td><td>Ask me anything about <b>data engineering</b> & <b>AI</b></td>
+  </tr>
+  <tr>
+    <td>⚡</td><td>Fun fact: I turn <b>raw data</b> into <b>meaningful insights</b> 📊➡️💡</td>
+  </tr>
+</table>
 
 <br clear="right"/>
 
