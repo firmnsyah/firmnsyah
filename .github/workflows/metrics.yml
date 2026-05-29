@@ -31,13 +31,13 @@ jobs:
           plugin_languages: yes
           plugin_languages_analysis_timeout: 15
           plugin_languages_categories: markup, programming
-          plugin_languages_colors: "0:00F5A0, 1:00D9F5, 2:00C9A7, 3:00B894, 4:0AE2C0, 5:1DE9B6, 6:64FFDA, 7:00E5FF"
+          plugin_languages_colors: github
           plugin_languages_limit: 8
           plugin_languages_sort: size
           extras_css: |
-            h2, .field-name { color: #00F5A0 !important; }
-            a { color: #00D9F5 !important; }
-            .badge, .key { color: #00C9A7 !important; }
+            h2, .field-name { color: #8E2DE2 !important; }
+            a { color: #4A00E0 !important; }
+            .badge, .key { color: #8E2DE2 !important; }
 
       # ---- Achievements (replaces the trophies card) ----
       - name: Achievements metrics
@@ -52,7 +52,7 @@ jobs:
           plugin_achievements_secrets: no
           plugin_achievements_threshold: C
           extras_css: |
-            h2, .field-name { color: #00F5A0 !important; }
-            a { color: #00D9F5 !important; }
-            .achievement .title { color: #00F5A0 !important; }
-            .achievement .progress .current { color: #00D9F5 !important; }
+            h2, .field-name { color: #8E2DE2 !important; }
+            a { color: #4A00E0 !important; }
+            .achievement .title { color: #8E2DE2 !important; }
+            .achievement .progress .current { color: #4A00E0 !important; }
