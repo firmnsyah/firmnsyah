@@ -28,13 +28,13 @@
 
 ```typescript
 const firmansyah = {
-    pronouns:    "He" | "Him",
-    location:    "Makassar, ID",
-    role:        "Data Engineer",
-    code:        ["Python", "SQL", "Pandas", "Numpy", "dbt"],
-    askMeAbout:  ["data", "tech", "artificial intelligence"],
-    currentlyLearning: "Data Engineer & Cloud Storage ☁️",
-    funFact:     "In God we trust, all others must bring data 📊"
+  pronouns: "He" | "Him",
+  location: "Makassar, ID",
+  role: "Data Engineer",
+  code: ["Python", "SQL", "Pandas", "Numpy", "dbt"],
+  askMeAbout: ["data", "tech", "artificial intelligence"],
+  currentlyLearning: "Data Engineer & Cloud Storage ☁️",
+  funFact: "In God we trust, all others must bring data 📊",
 };
 ```
 
@@ -46,7 +46,16 @@ const firmansyah = {
 
 <br clear="right"/>
 
+<!-- ====================== SNAKE ANIMATION ====================== -->
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/firmnsyah/firmnsyah/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</div>
+
 <!-- ====================== TECH STACK ====================== -->
+
 ## 🛠️ Tech Stack & Tools
 
 <div align="center">
@@ -73,6 +82,7 @@ const firmansyah = {
 </div>
 
 <!-- ====================== GITHUB STATS ====================== -->
+
 ## 📊 GitHub Statistics
 
 <div align="center">
@@ -84,6 +94,7 @@ const firmansyah = {
 </div>
 
 <!-- ====================== TROPHIES ====================== -->
+
 ## 🏆 Achievements
 
 <div align="center">
@@ -91,20 +102,15 @@ const firmansyah = {
 </div>
 
 <!-- ====================== ACTIVITY GRAPH ====================== -->
+
 ## 📈 Contribution Activity
 
 <div align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=firmnsyah&theme=react-dark&bg_color=0D1117&color=8E2DE2&line=4A00E0&point=ffffff&hide_border=true&area=true" alt="activity graph" />
 </div>
 
-<!-- ====================== SNAKE ANIMATION ====================== -->
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/firmnsyah/firmnsyah/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-</div>
-
 <!-- ====================== CONNECT ====================== -->
+
 ## 🌐 Connect With Me
 
 <div align="center">
