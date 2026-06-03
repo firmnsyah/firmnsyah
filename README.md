@@ -62,7 +62,7 @@ Always open to collaborating on data/AI projects and innovative ideas. Feel free
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=firmnsyah&theme=radical&hide_border=true&background=0D1117&ring=8E2DE2&fire=4A00E0&currStreakLabel=8E2DE2" alt="streak" />
+  <img src="https://streak-stats.demolab.com/?user=firmnsyah&theme=radical&hide_border=true&background=0D1117&ring=8E2DE2&fire=4A00E0&currStreakLabel=8E2DE2" alt="streak" />
 </div>
 
 <div align="center">
