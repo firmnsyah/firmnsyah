@@ -14,7 +14,7 @@ Always open to collaborating on data/AI projects and innovative ideas. Feel free
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/frmnsyaahh)
 [![GitHub Badge](https://img.shields.io/badge/-Github-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/firmnsyah)
 [![Gmail Badge](https://img.shields.io/badge/-EMail-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:frmnsyh.kdr@gmail.com)
-[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-8E2DE2?style=flat-square&logo=google-chrome&logoColor=white)](https://firmansyah-resume.vercel.app)
+[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-8E2DE2?style=flat-square&logo=google-chrome&logoColor=white)](https://firmansyah-portofolio.web.app)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=firmnsyah.firmnsyah)
 
